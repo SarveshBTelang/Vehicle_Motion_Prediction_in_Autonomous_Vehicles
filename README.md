@@ -10,6 +10,7 @@ The source code can be found in main.ipynb. However, to get an overview and gain
 Project Objective:
 
 ![project_focus](https://user-images.githubusercontent.com/18647382/234331087-3f650744-ccf3-49e7-87b5-5d7c398e41f4.png)
+![vehicle_motion](https://user-images.githubusercontent.com/18647382/234333892-33f35be0-b3bb-4bd1-b2d1-d054d0eb004c.png)
 
 Fully convolutional Neural network model (FCN)
 
