@@ -7,7 +7,7 @@ The dataset is provided by https://www.ind-dataset.com/#. The inD dataset is a n
 
 The source code can be found in main.ipynb. However, to get an overview and gain a deeper sense of the project, please open the Presentation and Report.pdf files.
 
-Project Objective
+Project Objective:
 
 ![project_focus](https://user-images.githubusercontent.com/18647382/234331087-3f650744-ccf3-49e7-87b5-5d7c398e41f4.png)
 
